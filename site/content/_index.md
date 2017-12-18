@@ -1,6 +1,9 @@
 ---
 title: "Ananke: a Hugo Theme"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+featured_image: '/images/london.jpg'
+description: "Havelin Consultancy offers independent commercial property solutions and advice in a cost-effective and time-efficient manner."
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+
+We primarily offer Tenant Representation services across the UK over a wide range of commercial property issues whether it be new site acquisitions, by lease or purchase, or negotiation of lease renewals or rent reviews.
+
+Please contact us for an exploratory chat on the nature of your requirement and how we can assist you.

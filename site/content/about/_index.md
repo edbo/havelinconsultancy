@@ -1,8 +1,13 @@
 ---
 title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
+description: "The Principal, Paul Colvin BSc MRICS, is a property professional with some 30 years experience."
 featured_image: ''
+menu:
+  main: {}
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+After 3 years at Montagu Evans Chartered Surveyors, Paul relocated to Hong Kong in 1989 and spent some 15 years employed primarily with major market-leading firms such as FPD Savills, DTZ and Colliers.
+
+Paul was retained by MCN’s to act on their behalf for multi-million pound contract value leases across the region. Client’s included Microsoft, Glaxo SmithKline, Parsons Brinkerhoff and Xerox.
+
+Paul returned to the United Kingdom in 2003 where he works on a free-lance, consultancy basis for a diverse range of both private and public clients, including Regus UK Ltd, Bright Horizons and local and central government bodies.
